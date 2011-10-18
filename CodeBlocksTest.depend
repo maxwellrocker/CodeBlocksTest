@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1318904468 source:d:\project\lua\codeblockstest\test.cpp
+	"Test.h"
+	<stdio.h>
+	"lua.h"
+	"lualib.h"
+	"lauxlib.h"
+
+1318842367 d:\project\lua\codeblockstest\test.h
+
+1218029412 d:\lua_5.1.4\src\lua.h
+	<stdarg.h>
+	<stddef.h>
+	"luaconf.h"
+
+1202747108 d:\lua_5.1.4\src\luaconf.h
+	<limits.h>
+	<stddef.h>
+	<unistd.h>
+	<io.h>
+	<stdio.h>
+	<stdio.h>
+	<readline/readline.h>
+	<readline/history.h>
+	<assert.h>
+	<math.h>
+	<unistd.h>
+
+1198760545 d:\lua_5.1.4\src\lauxlib.h
+	<stddef.h>
+	<stdio.h>
+	"lua.h"
+
+1198760545 d:\lua_5.1.4\src\lualib.h
+	"lua.h"
+
