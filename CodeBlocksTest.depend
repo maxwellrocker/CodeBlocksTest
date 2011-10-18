@@ -1,7 +1,8 @@
 # depslib dependency file v1.0
-1318904468 source:d:\project\lua\codeblockstest\test.cpp
+1318922076 source:d:\project\lua\codeblockstest\test.cpp
 	"Test.h"
 	<stdio.h>
+	<string>
 	"lua.h"
 	"lualib.h"
 	"lauxlib.h"
